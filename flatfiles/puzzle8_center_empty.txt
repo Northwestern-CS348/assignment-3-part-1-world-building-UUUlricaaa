@@ -1,4 +1,4 @@
-﻿fact: (grid pos1 pos1 tile1)
+fact: (grid pos1 pos1 tile1)
 fact: (grid pos1 pos2 tile8)
 fact: (grid pos1 pos3 tile7)
 fact: (grid pos2 pos1 tile2)
